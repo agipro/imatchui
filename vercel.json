@@ -1,0 +1,18 @@
+{
+    "builds": [
+      {
+        "src": "imatchui/api/server.py",
+        "use": "@vercel/python",
+        "config": {
+            "maxLambdaSize": "10gb",
+            "runtime": "python3.10"
+        }
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "imatchui/api/server.py"
+      }
+    ]
+}

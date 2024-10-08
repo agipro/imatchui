@@ -1,0 +1,3 @@
+python -m flake8 imatchui/*.py imatchui/ui/*.py imatchui/api/*.py imatchui/hloc/*.py imatchui/hloc/matchers/*.py imatchui/hloc/extractors/*.py 
+python -m isort imatchui/*.py imatchui/ui/*.py imatchui/api/*.py imatchui/hloc/*.py imatchui/hloc/matchers/*.py imatchui/hloc/extractors/*.py
+python -m black imatchui/*.py imatchui/ui/*.py imatchui/api/*.py imatchui/hloc/*.py imatchui/hloc/matchers/*.py imatchui/hloc/extractors/*.py

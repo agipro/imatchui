@@ -1,0 +1,72 @@
+[submodule "imatchui/third_party/SOLD2"]
+	path = imatchui/third_party/SOLD2
+	url = https://github.com/cvg/SOLD2.git
+[submodule "imatchui/third_party/GlueStick"]
+	path = imatchui/third_party/GlueStick
+	url = https://github.com/cvg/GlueStick.git
+[submodule "imatchui/third_party/ASpanFormer"]
+	path = imatchui/third_party/ASpanFormer
+	url = https://github.com/Vincentqyw/ml-aspanformer.git
+[submodule "imatchui/third_party/TopicFM"]
+	path = imatchui/third_party/TopicFM
+	url = https://github.com/Vincentqyw/TopicFM.git
+[submodule "imatchui/third_party/d2net"]
+	path = imatchui/third_party/d2net
+	url = https://github.com/Vincentqyw/d2-net.git
+[submodule "imatchui/third_party/r2d2"]
+	path = imatchui/third_party/r2d2
+	url = https://github.com/naver/r2d2.git
+[submodule "imatchui/third_party/DKM"]
+	path = imatchui/third_party/DKM
+	url = https://github.com/Vincentqyw/DKM.git
+[submodule "imatchui/third_party/ALIKE"]
+	path = imatchui/third_party/ALIKE
+	url = https://github.com/Shiaoming/ALIKE.git
+[submodule "imatchui/third_party/LightGlue"]
+	path = imatchui/third_party/LightGlue
+	url = https://github.com/cvg/LightGlue.git
+[submodule "imatchui/third_party/DeDoDe"]
+	path = imatchui/third_party/DeDoDe
+	url = https://github.com/Parskatt/DeDoDe.git
+[submodule "imatchui/third_party/RoRD"]
+	path = imatchui/third_party/RoRD
+	url = https://github.com/Vincentqyw/RoRD.git
+[submodule "imatchui/third_party/lanet"]
+	path = imatchui/third_party/lanet
+	url = https://github.com/agipro/lanet.git
+[submodule "imatchui/third_party/mickey"]
+	path = imatchui/third_party/mickey
+	url = https://github.com/agipro/mickey.git
+[submodule "imatchui/third_party/SuperGluePretrainedNetwork"]
+	path = imatchui/third_party/SuperGluePretrainedNetwork
+	url = https://github.com/Vincentqyw/SuperGluePretrainedNetwork.git
+[submodule "imatchui/third_party/COTR"]
+	path = imatchui/third_party/COTR
+	url = https://github.com/Vincentqyw/COTR.git
+[submodule "imatchui/third_party/gim"]
+	path = imatchui/third_party/gim
+	url = https://github.com/xuelunshen/gim.git
+[submodule "imatchui/third_party/dust3r"]
+	path = imatchui/third_party/dust3r
+	url = https://github.com/naver/dust3r.git
+[submodule "imatchui/third_party/omniglue"]
+	path = imatchui/third_party/omniglue
+	url = https://github.com/Vincentqyw/omniglue-onnx.git
+[submodule "imatchui/third_party/RoMa"]
+	path = imatchui/third_party/RoMa
+	url = https://github.com/Vincentqyw/RoMa.git
+[submodule "imatchui/third_party/SGMNet"]
+	path = imatchui/third_party/SGMNet
+	url = https://github.com/agipro/SGMNet.git
+[submodule "imatchui/third_party/DarkFeat"]
+	path = imatchui/third_party/DarkFeat
+	url = https://github.com/agipro/DarkFeat.git
+[submodule "imatchui/third_party/mast3r"]
+	path = imatchui/third_party/mast3r
+	url = https://github.com/naver/mast3r
+[submodule "imatchui/third_party/pram"]
+	path = imatchui/third_party/pram
+	url = https://github.com/agipro/pram.git
+[submodule "imatchui/third_party/EfficientLoFTR"]
+	path = imatchui/third_party/EfficientLoFTR
+	url = https://github.com/zju3dv/EfficientLoFTR.git
