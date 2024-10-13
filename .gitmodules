@@ -63,7 +63,7 @@
 	url = https://github.com/agipro/DarkFeat.git
 [submodule "imatchui/third_party/mast3r"]
 	path = imatchui/third_party/mast3r
-	url = https://github.com/naver/mast3r
+	url = https://github.com/naver/mast3r.git
 [submodule "imatchui/third_party/pram"]
 	path = imatchui/third_party/pram
 	url = https://github.com/agipro/pram.git
